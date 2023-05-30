@@ -8,6 +8,6 @@ cd into directory
 
 pip install -r requirements.txt
 
-python3 chathpt.py 
+python3 chatgpt.py 
 
 user: ask away!
